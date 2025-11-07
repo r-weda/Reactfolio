@@ -171,7 +171,7 @@
      npm run build
      ```
 
-  ---
+
 
   ## 🎨 CSS Hex Color Palette
 
